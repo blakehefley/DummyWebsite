@@ -1,4 +1,4 @@
-This is a sample Website application.
+This is a sample website application.
 
 DynamoDB
 Node
